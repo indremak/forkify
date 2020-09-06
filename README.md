@@ -1,8 +1,8 @@
 # Forkify
 
-[Click here to try this app]()
+[Click here to try this app](https://indremak.github.io/forkify)
 
-This is a recipe search JavaScript application implemented while doing [The Complete JavaScript Course 2020]().
+This is a recipe search JavaScript application implemented while doing [The Complete JavaScript Course 2020](https://www.udemy.com/course/the-complete-javascript-course/).
 
 ## Features
 
